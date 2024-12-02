@@ -1,0 +1,29 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 40px 120px;
+    color: white;
+    backdrop-filter: brightness(0.5);
+}
+
+.nav-logo {
+    font-family: outfit;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.nav-menu {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    font-size: 20px;
+    gap: 90px;
+}
+
+.nav-contact {
+    border-radius: 50%;
+    padding: 10px 30px;
+    background: rgb(247, 241, 241);
+    color: black;
+}

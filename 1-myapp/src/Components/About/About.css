@@ -1,0 +1,9 @@
+.about {
+    border: 1rem solid blue;
+}
+
+.about p {
+    font-size: 30px;
+    font-weight: 10px;
+    color: darkblue;
+}

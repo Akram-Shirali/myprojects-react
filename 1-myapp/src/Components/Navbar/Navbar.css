@@ -1,0 +1,12 @@
+.navbar ul{
+    display: flex;
+}
+
+.navbar button {
+    margin-right: 20px;
+    font-size: 18px;
+    border: none;
+    background-color: white;
+    cursor: pointer;
+    
+}
